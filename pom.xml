@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>br.edu.ifrs.canoas.java</groupId>
-	<artifactId>arrays</artifactId>
+	<artifactId>arrays-2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>arrays</name>
+	<name>arrays-2</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
